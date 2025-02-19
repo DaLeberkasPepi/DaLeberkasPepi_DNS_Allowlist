@@ -1,1 +1,29 @@
-
+[Adblock Plus]
+! Title: DaLeberkasPepi's DNS Allowlist
+! Syntax: AdBlock
+!
+! Allow Tailscale Logs
+@@||log.tailscale.io^$important
+! Allow Google/Youtube Search History
+@@||myactivity.google.com^$important
+@@||discover-pa.googleapis.com^$important
+! Buypass DerStandard AdBlock Checker
+@@||tags.tiqcdn.com^$important
+@@||tags-eu.tiqcdn.com^$important
+@@||www.asadcdn.com^$important
+@@||cdn.opecloud.com^$important
+@@||www.npttech.com^$important
+@@||cdn.tinypass.com^$important
+! Allow Chrome Sync Feature
+@@||clients4.google.com^$important
+@@||clients2.google.com^$important
+@@||s.youtube.com^$important
+@@||video-stats.l.google.com^$important
+! Allow Nvidia App Driver checker
+@@||gfwsl.geforce.com^$important
+! Allow Google Sponsored Links
+@@||www.googleadservices.com^$important
+@@||www.googletagmanager.com^$important
+@@||www.googletagservices.com^$important
+@@||ad.doubleclick.net^$important
+@@||t.myvisualiq.net^$important
