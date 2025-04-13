@@ -27,3 +27,6 @@
 @@||www.googletagservices.com^$important
 @@||ad.doubleclick.net^$important
 @@||t.myvisualiq.net^$important
+! Allow Random List of Sites
+@@||dpm.lol^$important
+@@*saily.site^$important
