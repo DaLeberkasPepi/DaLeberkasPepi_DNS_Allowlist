@@ -30,3 +30,4 @@
 ! Allow Random List of Sites
 @@||dpm.lol^$important
 @@*saily.site^$important
+@@*alzchem.biz^$important
